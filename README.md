@@ -1,2 +1,0 @@
-# website.personalhadi
-codingan.gabutbelajar
